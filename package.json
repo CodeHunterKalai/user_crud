@@ -1,5 +1,5 @@
 {
-  "homepage": "https://CodeHunterKalai.github.io/user_crud",
+  "homepage": "https://codehunterkalai.github.io/user_crud",
   "name": "crud",
   "private": true,
   "version": "0.0.0",
@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-     "deploy": "gh-pages -d build -r https://github.com/CodeHunterKalai/user_crud.git",
+    "deploy": "gh-pages -d build ",
     "predeploy": "npm run build",
     "lint": "eslint .",
     "preview": "vite preview"
