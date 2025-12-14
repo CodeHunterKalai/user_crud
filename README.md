@@ -45,4 +45,4 @@ A simple **User Management System** built with **React.js** and **Bootstrap** th
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/LogeshPandiyan/UserCrudApp.git
+git clone https://github.com/CodeHunterKalai/user_crud.git
